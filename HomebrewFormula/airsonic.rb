@@ -3,7 +3,7 @@ class Airsonic < Formula
   homepage "https://airsonic.github.io/docs/"
   url "https://github.com/airsonic/airsonic/releases/download/v10.6.2/airsonic.war"
   version "10.6.2"
-  sha256 "0842a1fc4380cbe75e40dcb94e40332222b816514bd8ad250501d472210894d4"
+  sha256 "94b17d6a7859a9c029dcbcdc672f4d49bd605bf46bdf74ac51ea0d593db67860"
 
   depends_on "openjdk"
   depends_on "ffmpeg" => ["with-fdk-aac"]
